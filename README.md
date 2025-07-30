@@ -42,8 +42,8 @@
 
 ## 📱 Присоединяйся прямо сейчас
 
-1 Telegram-бот: [@nftfreetg_bot](https://t.me/nftfreetg_bot)
-2 Telegram-channel :[@nftfreetg](https://t.me/nftfreetg)
-3 online winning feed: [онлайн лента](https://t.me/nftfreetg_winner)
+* Telegram-бот: [@nftfreetg_bot](https://t.me/nftfreetg_bot)
+* Telegram-channel :[@nftfreetg](https://t.me/nftfreetg)
+* online winning feed: [онлайн лента](https://t.me/nftfreetg_winner)
 
 ---
