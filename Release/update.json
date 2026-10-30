@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3",
-  "versionCode": 4,
+  "versionName": "1.4",
+  "versionCode": 5,
   "arm64Asset": "app-arm64.apk",
   "universalAsset": "app-universal.apk",
   "notes": "Исправления и улучшения тем. Добавлено много нового"
