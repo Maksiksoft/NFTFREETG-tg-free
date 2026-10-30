@@ -1,5 +1,5 @@
 {
-  "versionName": "1.2",
+  "versionName": "1.1",
   "versionCode": 3,
   "arm64Asset": "app-arm64.apk",
   "universalAsset": "app-universal.apk",
