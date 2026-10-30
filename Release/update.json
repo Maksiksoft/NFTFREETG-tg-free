@@ -1,0 +1,7 @@
+{
+  "versionName": "1.2",
+  "versionCode": 3,
+  "arm64Asset": "app-arm64.apk",
+  "universalAsset": "app-universal.apk",
+  "notes": "Исправления и улучшения тем"
+}
